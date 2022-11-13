@@ -9,5 +9,6 @@
 
 初学**golang**、**k8s** 希望未来往能学学**Rust**
 
+学习**kubernetes二次开发**、云原生、云计算相关领域
 
 [![江江's github stats](https://github-readme-stats.vercel.app/api?username=googs1025)](https://github.com/anuraghazra/github-readme-stats)
