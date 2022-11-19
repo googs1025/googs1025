@@ -7,6 +7,8 @@
 
 偶尔也喜欢购物投资拍照:gift::chart_with_upwards_trend:等
 
+会用**python**、**go**
+
 初学**golang**、**k8s** 希望未来往能学学**Rust**
 
 学习**kubernetes二次开发**、云原生、云计算相关领域
