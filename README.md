@@ -7,11 +7,11 @@
 
 偶尔也喜欢购物投资拍照:gift::chart_with_upwards_trend:等
 
-会用**python**、**go**
+主要写**Python**、**Golang**，目前在学**Rust**
 
-初学**golang**、**k8s** 希望未来往能学学**Rust**
+1.学习**Golang**、**Kubernetes** 
 
-学习**kubernetes二次开发**、云原生、云计算相关领域
+2.学习**kubernetes二次开发**、云原生、云计算相关领域
 ### 提交总数 
 [![江江's github stats](https://github-readme-stats.vercel.app/api?username=googs1025&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 ### 常用语言
