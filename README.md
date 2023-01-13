@@ -18,10 +18,11 @@
 4. 熟悉云计算、云原生背景知识(ex: 混合云 边缘云等技术)
 
 ## 小项目(督促自己成长的项目，外加其他仓库也会不定期更新)
-1. **AppDeployer** 集成deployment+service的operator，并支持configmap的热更新功能。
-2. **webhook** 同时集成**ValidatingWebhook**与**MutatingWebhook**两种webhook功能(详细功能可见仓库)。
-3. **informer学习** 集成informer的demo示例，并加入简易的源码说明。
-4. **kube-mangaer** k8s可视化管理系统
+1. **AppDeployer** 集成deployment+service的operator，并支持configmap的热更新功能。[仓库地址](https://github.com/googs1025/Kubernetes-operator-AppDeployer)
+2. **webhook** 同时集成**ValidatingWebhook**与**MutatingWebhook**两种webhook功能(详细功能可见仓库)。[仓库地址](https://github.com/googs1025/k8s-webhook-develop)
+3. **informer学习** 集成informer的demo示例，并加入简易的源码说明。[仓库地址](https://github.com/googs1025/k8s-informer-practice)
+4. **kube-mangaer** k8s可视化管理系统(前后端分离)。[后端仓库地址](https://github.com/googs1025/k8s-sample-management-system) [前端仓库地址](https://github.com/googs1025/k8s-sample-management-system-browser-part)
+5. **simple-proxy** 简易型反向代理operator。[仓库地址](https://github.com/googs1025/kubernetes-simple-proxy-operator)
 
 ### 提交总数 
 [![江江's github stats](https://github-readme-stats.vercel.app/api?username=googs1025&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
