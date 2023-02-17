@@ -33,5 +33,5 @@
 ### 常用语言
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=googs1025&layout=compact&theme=highcontrast)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=googs1025)
-### 好玩的贪吃蛇
-![暗色贪吃蛇](https://raw.githubusercontent.com/googs1025/gihubSNK/main/assets/github-contribution-grid-snake.svg)              
+<!-- ### 好玩的贪吃蛇
+![暗色贪吃蛇](https://raw.githubusercontent.com/googs1025/gihubSNK/main/assets/github-contribution-grid-snake.svg)               -->
