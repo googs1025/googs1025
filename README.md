@@ -13,9 +13,10 @@
 
 ## 2023年目标
 1. 加深学习k8s二次开发技术：ex operator、webhook与可视化管理系统等基础开发。
-2. k8s组件源码：api-server controller-mananger kube-scheduler等
-3. 学习Rust语言基础
-4. 熟悉云计算、云原生背景知识(ex: 混合云 边缘云等技术)
+2. k8s组件源码：api-server controller-mananger kube-scheduler等。  
+[源码阅读仓库地址](https://github.com/translatecn/kubernetes)欢迎大家也多多上去提交自己的心得想法！
+3. 学习Rust语言基础。
+4. 熟悉云计算、云原生背景知识(ex: 混合云 边缘云等技术)。
 
 ## 小项目(督促自己成长的项目，外加其他仓库也会不定期更新)
 1. **AppDeployer** 集成**deployment**+**service**的**operator**，并支持**configmap**的热更新功能。[仓库地址](https://github.com/googs1025/Kubernetes-operator-AppDeployer)
