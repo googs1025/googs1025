@@ -24,9 +24,10 @@
 3. **informer学习** 集成informer的**demo**示例，并加入简易的**源码**说明。[informer学习仓库地址](https://github.com/googs1025/k8s-informer-practice) [多集群多资源informer监听仓库地址](https://github.com/googs1025/multi-cluster-informer)
 4. **kube-mangaer** k8s**可视化管理系统**(前后端分离)。[后端仓库地址](https://github.com/googs1025/k8s-sample-management-system) [前端仓库地址](https://github.com/googs1025/k8s-sample-management-system-browser-part)
 5. **simple-proxy** 简易型反向代理**operator**。[仓库地址](https://github.com/googs1025/proxy-operator)
-6. **simple-storeclient-storectl** 练手项目：模仿k8s的**client-go**，与**kubectl**调用方式，创建对象。[仓库地址](https://github.com/googs1025/imitate-k8s-kubectl-clientSet)
-7. **controller-runtime学习** 基于常用的脚手架controller-runtime的**demo**练习(未来预计加入源码组件简易分析)与自定义crd创建controller的练手项目。[demo仓库地址](https://github.com/googs1025/k8s-controller-runtime-practice) [crd创建controller仓库地址](https://github.com/googs1025/k8s-crd-controller-demo)
-8. **multi-cluster-kube-mangaer** 支持k8s多集群的资源查询接口调用。[仓库地址](https://github.com/googs1025/multi-cluster-k8s-manager-demo)
+6. **simple-message-center** 简易型集群内消息中心 [仓库地址](https://github.com/googs1025/message-operator)
+7. **simple-storeclient-storectl** 练手项目：模仿k8s的**client-go**，与**kubectl**调用方式，创建对象。[仓库地址](https://github.com/googs1025/imitate-k8s-kubectl-clientSet)
+8. **controller-runtime学习** 基于常用的脚手架controller-runtime的**demo**练习(未来预计加入源码组件简易分析)与自定义crd创建controller的练手项目。[demo仓库地址](https://github.com/googs1025/k8s-controller-runtime-practice) [crd创建controller仓库地址](https://github.com/googs1025/k8s-crd-controller-demo)
+9. **multi-cluster-kube-mangaer** 支持k8s多集群的资源查询接口调用。[仓库地址](https://github.com/googs1025/multi-cluster-k8s-manager-demo)
 
 
 ### 提交总数 
