@@ -39,7 +39,6 @@
 
 ### 高并发项目
 1. **简易高并发工作池框架** [仓库地址](https://github.com/googs1025/Simple-work-pool-framework)
-2. **简易管道模式框架** [仓库地址](https://github.com/googs1025/mysql-practice-by-gorm)
 
 ### 提交总数 
 [![江江's github stats](https://github-readme-stats.vercel.app/api?username=googs1025&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
