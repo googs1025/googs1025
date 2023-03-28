@@ -37,8 +37,9 @@
 #### 模仿项目
 1. **simple-storeclient-storectl** 练手项目：模仿k8s的**client-go**，与**kubectl**调用方式，创建对象。[仓库地址](https://github.com/googs1025/imitate-k8s-kubectl-clientSet)
 
-### 高并发项目
+### 设计模式练习
 1. **简易高并发工作池框架** [仓库地址](https://github.com/googs1025/Simple-work-pool-framework)
+2. **设计模式整理** [仓库地址](https://github.com/StudyPlace-io/Golang-Design-Pattern-Demo)
 
 ### 提交总数 
 [![江江's github stats](https://github-readme-stats.vercel.app/api?username=googs1025&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
