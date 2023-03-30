@@ -4,6 +4,15 @@
 :computer:**0年级后端搬砖程序员**&&**大厂边角料**&&**专业堆屎山**&&**依葫芦画瓢抄抄抄**
 
 兴趣：英超球迷:soccer:足球（**曼城** **利物浦**球迷），(**英格兰** **巴西**球迷)
+<!--  skills -->
+<h4 align="left"> Using:</h4>
+<p align="left"> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h4 align="left"> Learning:</h4>
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="kubernetes" width="40" height="40"/> </a>   
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
+
+
+
 
 主要写**Python**、**Golang**，目前在学**Rust**
 
@@ -49,3 +58,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=googs1025)
 <!-- ### 好玩的贪吃蛇
 ![暗色贪吃蛇](https://raw.githubusercontent.com/googs1025/gihubSNK/main/assets/github-contribution-grid-snake.svg)               -->
+
+
