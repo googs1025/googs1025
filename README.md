@@ -35,6 +35,7 @@
 3. **simple-message-center** 简易型集群内消息控制器**operator** [仓库地址](https://github.com/googs1025/message-operator)
 4. **simple-dbconfig** 简易型数据库配置控制器**operator** [仓库地址](https://github.com/googs1025/dbconfig-operator)
 5. **simple-inspect** 简易型集群内巡检控制器**operator** [仓库地址](https://github.com/googs1025/inspect-operator)
+6. **simple-podrestarter** 简易型pod原地升级或重启**operator** [仓库地址](https://github.com/googs1025/podReStarter-operator)
 #### Webhook
 1. **webhook** 同时集成**ValidatingWebhook**与**MutatingWebhook**两种webhook功能(详细功能可见仓库)。[仓库地址](https://github.com/googs1025/k8s-webhook-develop)
 #### k8s管理系统
