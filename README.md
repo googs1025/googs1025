@@ -36,7 +36,8 @@
 4. **simple-dbconfig** 简易型数据库配置控制器**operator** [仓库地址](https://github.com/googs1025/dbconfig-operator)
 5. **simple-inspect** 简易型集群内巡检控制器**operator** [仓库地址](https://github.com/googs1025/inspect-operator)
 6. **simple-podrestarter** 简易型pod原地升级或重启**operator** [仓库地址](https://github.com/googs1025/podReStarter-operator)
-7. **simple-cicd-operator** 简易型cicd流水线控制器**ooperator** [仓库地址](https://github.com/Operator-Learning-Playground/cicd-operator)
+7. **simple-podDeployer** 简易型pod按照容器权重顺序启动**operator** [仓库地址](https://github.com/Operator-Learning-Playground/podDeployer-operator)
+8. **simple-cicd-operator** 简易型cicd流水线控制器**ooperator** [仓库地址](https://github.com/Operator-Learning-Playground/cicd-operator)
 #### Webhook
 1. **webhook** 同时集成**ValidatingWebhook**与**MutatingWebhook**两种webhook功能(详细功能可见仓库)。[仓库地址](https://github.com/googs1025/k8s-webhook-develop)
 #### k8s管理系统
