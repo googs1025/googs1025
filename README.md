@@ -1,6 +1,6 @@
 ## 转码包子的自我介绍
 :grinning:我是包子 
-- 你不一定要会了，才能开始; 但你要开始了，你才会
+- 你不一定要会，才能开始; 但你要开始，才可能会
 - 每一行代码都是成长的脚印
 
 
@@ -21,12 +21,12 @@
 
 2.学习**kubernetes二次开发**、云原生、云计算相关领域
 
-## 2023年目标
-1. 加深学习k8s二次开发技术：ex operator、webhook与可视化管理系统等基础开发。
-2. k8s组件源码：api-server controller-mananger kube-scheduler等。  
-[源码阅读仓库地址](https://github.com/translatecn/kubernetes)欢迎大家也多多上去提交自己的心得想法！
-3. 学习Rust语言基础。
-4. 熟悉云计算、云原生背景知识(ex: 混合云 边缘云等技术)。
+## 2023年下半年目标
+1. 加深学习k8s二次开发技术：ex `operator`、`client-go`以及周边技术栈。
+2. k8s组件源码阅读：`api-server` `controller-mananger` `kube-scheduler`以及`kubelet`等。
+3. 多参与社区项目，多提issue，多看源码，是否有小pr可以提交。
+4. 开源社区源码阅读计画开始筹备中。。。。 
+5. 学习Rust语言基础。
 
 ## 小项目(督促自己成长的项目，外加其他仓库也会不定期更新)
 
