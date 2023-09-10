@@ -32,10 +32,6 @@
 
 三个自创的组织，用于练习k8s相关的技术栈
 
-#### Operator-Learning-Playground [仓库地址](https://github.com/Operator-Learning-Playground)
-
-用于实现简易型(极度简易)集群内operator项目组
-
 #### Kubernetes-Learning-Playground [仓库地址](https://github.com/Kubernetes-Learning-Playground)
 
 用于练习k8s相关扩展
@@ -44,10 +40,9 @@
 
 练习包含：设计模式、并发模式、调度或缓存等
 
-### 设计模式练习
-1. **简易高并发工作池框架** [仓库地址](https://github.com/googs1025/Simple-work-pool-framework)
-2. **设计模式整理** [仓库地址](https://github.com/StudyPlace-io/Golang-Design-Pattern-Demo)
-3. **并发模式整理** [仓库地址](https://github.com/StudyPlace-io/Golang-Concurrency-Pattern-Demo)
+#### Operator-Learning-Playground [仓库地址](https://github.com/Operator-Learning-Playground)
+
+用于实现简易型(极度简易)集群内operator项目组
 
 ### 提交总数 
 [![江江's github stats](https://github-readme-stats.vercel.app/api?username=googs1025&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
