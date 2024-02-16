@@ -1,16 +1,25 @@
-name: WakaTime Readme
-
+# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+name: Metrics
 on:
-  push:
-    branches:
-      - master
-  schedule:
-    - cron: '0 19 * * *'
-
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
 jobs:
-  update-readme:
+  github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: lowlighter/metrics@latest
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: googs1025
+          template: classic
+          base: header
+          config_timezone: Asia/Shanghai
+          plugin_followup: yes
+          plugin_followup_sections: user
+          plugin_notable: yes
