@@ -3,8 +3,6 @@
 - 你不一定要会，才能开始; 但你要开始，才可能会
 - 学习, 依旧坚持
 
-家里发生一些事情，更新变少，不在成都，希望回来时一切安好
-
 :computer:**1.5年级后端搬砖程序员**&&**大厂边角料**&&**专业堆屎山**&&**依葫芦画瓢抄抄抄**
 
 <!--  skills -->
@@ -39,12 +37,8 @@
 
 练习包含：设计模式、并发模式、调度或缓存等
 
-### 提交总数 
-[![江江's github stats](https://github-readme-stats.vercel.app/api?username=googs1025&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-### 常用语言
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=googs1025&layout=compact&theme=highcontrast)
+
+![Metrics](https://github.com/googs1025/googs1025/blob/main/github-metrics.svg)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=googs1025)
-<!-- ### 好玩的贪吃蛇
-![暗色贪吃蛇](https://raw.githubusercontent.com/googs1025/gihubSNK/main/assets/github-contribution-grid-snake.svg)               -->
 
 
