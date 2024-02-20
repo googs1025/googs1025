@@ -14,7 +14,7 @@
 
 ## 2024年上半年目标：
 #### 1. **聚焦**：持续在k8s二次开发方向学习，并经营好自己的学习社区。如 operator、client-go以及周边技术栈
-#### 2. **深耕**：多看看优秀代码的源码，除 kubernetes 之外，如 kruise volcano keda karmada 等等
+#### 2. **深耕**：多看看优秀代码的源码，除 kubernetes 之外，如 kruise clusterpedia volcano keda karmada 等等
 
    TODO: 列举出需要关注的开源项目
 #### 3. **参与**：不要怕在网上提 issue，有问题就问 ; 看源码多思考，参与提交 pr 
