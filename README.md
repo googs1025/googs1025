@@ -2,7 +2,7 @@
 ### I'm CYJiang
 #### I am a slow walker,but I never walk backwards.
 #### Where there is a will, there is a way.
-😄 I am from Taiwan and currently working and living in Chengdu. I have a deep affection for both places.
+😄 I am from Taiwan(Taipei) and currently working and living in Sichuan(Chengdu). I have a deep affection for both places.
 <!--
 **mengjiao-liu/mengjiao-liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Cloud Native Development engineer
-- 🌱 I'm currently learning open-source projects related to scheduling volcano-scheduler, koordinator, godel-schduler katalyst-core ...
+- 🌱 I'm currently learning open-source projects related to scheduling...
 - 🍀 I'm a learner loving the cloud native and open source.
-- 💬 I have contributed code in Kubernetes SIG, volcano, k8s_club...
+- 💬 I have contributed code in Kubernetes, volcano, k8s_club...
 - 👯 Learning about Go, Kubernetes, Rust, Ebpf...
 - 📫 How to reach me: googs1025@gmail.com
 
