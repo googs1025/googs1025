@@ -2,7 +2,7 @@
 ### I'm CYJiang
 #### I am a slow walker,but I never walk backwards.
 #### Where there is a will, there is a way.
-😄 I am from Taiwan(Taipei) and currently working and living in Sichuan(Chengdu). I have a deep affection for both places.
+😄 I am currently working and living in Sichuan(Chengdu).
 <!--
 **mengjiao-liu/mengjiao-liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
