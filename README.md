@@ -1,29 +1,22 @@
 ### Hi there 👋  
 ### I'm CYJiang
-#### I am a slow walker,but I never walk backwards.
-#### Where there is a will, there is a way.
-😄 I am currently working and living in Sichuan(Chengdu).
+
+#### I am a slow walker, but I never walk backwards.  
+#### Where there is a way, there is a will. 💪
+
+😄 I am currently working and living in Sichuan (Chengdu).
+
 <!--
-**mengjiao-liu/mengjiao-liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**googs1025/googs1025** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 -->
 
-- 🔭 Cloud Native Development engineer
-- 🌱 I'm currently learning open-source projects related to scheduling...
-- 🍀 I'm a learner loving the cloud native and llm.
-- 💬 I have contributed code in Kubernetes...
-- 👯 Learning about Go, Kubernetes, LLM, Rust, Ebpf...
-- 📫 How to reach me: googs1025@gmail.com
+- 🔭 **Cloud Native Development Engineer** — learning AI infrastructure and scheduling on Kubernetes
+- 🌱 Currently learning **open-source scheduling systems** and **large-scale LLM workloads**
+- 🍀 Passionate about **cloud-native technologies** and the future of **LLM infrastructure**
+- 💬 Open-source contributor to **Kubernetes**; maintainer of [**aibrix**](https://github.com/vllm-project/aibrix), reviewer for **scheduler-plugins**, **descheduler**, and **llmaz**
+- 👯 Actively learning: **Go, Kubernetes, LLM, Rust, eBPF**
+- 🐳 Community member of **Kubernetes** **Volcano** and **Koordinator**
+- 📫 How to reach me: [googs1025@gmail.com](mailto:googs1025@gmail.com)
 
 
 #### Self-built community
