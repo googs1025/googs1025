@@ -16,7 +16,7 @@
 - 💬 Open-source contributor to **Kubernetes**; maintainer of [**aibrix**](https://github.com/vllm-project/aibrix), reviewer for **scheduler-plugins**, **descheduler**, and **llmaz**
 - 👯 Actively learning: **Go, Kubernetes, LLM, Rust, eBPF**
 - 🐳 Community member of **Kubernetes** **Volcano** and **Koordinator**
-- 📫 How to reach me: [googs1025@gmail.com](mailto:googs1025@gmail.com)
+- 📫 How to reach me: [googs1025@gmail.com](mailto:googs1025@gmail.com), wechat: googs1025
 
 
 #### Self-built community
