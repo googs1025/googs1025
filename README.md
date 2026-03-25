@@ -1,7 +1,7 @@
-### Hi there 👋  
+### Hi there 👋
 ### I'm CYJiang
 
-#### I am a slow walker, but I never walk backwards.  
+#### I am a slow walker, but I never walk backwards.
 #### Where there is a way, there is a will. 💪
 
 😄 I am currently working and living in Sichuan (Chengdu).
@@ -18,6 +18,19 @@
 - 🐳 Community member of **Kubernetes** **Volcano** and **Koordinator**
 - 📫 How to reach me: [googs1025@gmail.com](mailto:googs1025@gmail.com), wechat: googs1025
 
+---
+
+#### 🥋 Claude Code Skills
+
+Custom skill packages that turn Claude Code into a specialized development partner:
+
+| Skill | Description |
+|-------|-------------|
+| [**claude-code-explorer-skill**](https://github.com/googs1025/claude-code-explorer-skill) | Deep code reading & architecture analysis — function tracing, module mapping, Mermaid diagrams |
+| [**clean-code-reviewer-skills**](https://github.com/googs1025/clean-code-reviewer-skills) | Rank-based code review system (Beginner→Master), 6-dimension scan + diagnostic report, 350+ classic rules |
+| [**code-review-skill**](https://github.com/googs1025/code-review-skill) | OSS code review expert — 4-dimension audit (quality / security / performance / conventions), PR & Issue analysis |
+
+---
 
 #### Self-built community
 #### [Kubernetes-Learning-Playground](https://github.com/Kubernetes-Learning-Playground)
@@ -28,5 +41,3 @@
 
 ![Metrics](https://github.com/googs1025/googs1025/blob/main/github-metrics.svg)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=googs1025)
-
-
