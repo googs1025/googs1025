@@ -11,12 +11,16 @@
 -->
 
 - 🔭 **Cloud Native Development Engineer** — learning AI infrastructure and scheduling on Kubernetes
-- 🌱 Currently learning **open-source scheduling systems** and **large-scale LLM workloads**
+- 🌱 Currently learning **open-source scheduling systems** and **large-scale LLM workloads**, and  **AI Agent frameworks**
+- 🤖 Exploring GPU computing fundamentals — CUDA, MUSA
 - 🍀 Passionate about **cloud-native technologies** and the future of **LLM infrastructure**
 - 💬 Open-source contributor to **Kubernetes**; maintainer of [**aibrix**](https://github.com/vllm-project/aibrix), reviewer for **scheduler-plugins**, **descheduler**, and **llmaz**
-- 👯 Actively learning: **Go, Kubernetes, LLM, Rust, eBPF**
+- 👯 Actively learning: **Go, Kubernetes, LLM, Rust, AI Agent, CUDA/MUSA**
 - 🐳 Community member of **Kubernetes** **Volcano** and **Koordinator**
 - 📫 How to reach me: [googs1025@gmail.com](mailto:googs1025@gmail.com), wechat: googs1025
+
+😄 I am currently working and living in Sichuan (Chengdu).
+
 
 ---
 
